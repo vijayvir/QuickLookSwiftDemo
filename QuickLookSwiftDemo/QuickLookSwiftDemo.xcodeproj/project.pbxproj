@@ -18,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		6B0E22AF215CB02900D23C82 /* QLS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QLS.swift; sourceTree = "<group>"; };
+		6B0E22B1215CB51900D23C82 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 		6BC31373215CA3E80066FFE9 /* QuickLookSwiftDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuickLookSwiftDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BC31376215CA3E80066FFE9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6BC31378215CA3E80066FFE9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +62,7 @@
 				6BC31388215CA4A50066FFE9 /* article.pdf */,
 				6BC31376215CA3E80066FFE9 /* AppDelegate.swift */,
 				6BC31378215CA3E80066FFE9 /* ViewController.swift */,
+				6B0E22B1215CB51900D23C82 /* README.md */,
 				6B0E22AF215CB02900D23C82 /* QLS.swift */,
 				6BC3137A215CA3E80066FFE9 /* Main.storyboard */,
 				6BC3137D215CA3F00066FFE9 /* Assets.xcassets */,
