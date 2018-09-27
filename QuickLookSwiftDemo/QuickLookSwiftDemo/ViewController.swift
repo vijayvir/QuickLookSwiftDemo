@@ -31,10 +31,7 @@ class ViewController: UIViewController {
         let datasourse : QLSDataSource = QLSDataSource(previewItem: item)
         let qlController : QLSPreviewController =  QLSPreviewController()
         qlController.dataSource  = datasourse
-        qlController.delegate = datasourse
-        self.present(qlController, animated: true) {
-            
-        }
+        self.present(qlController, animated: true)
     }
     
     

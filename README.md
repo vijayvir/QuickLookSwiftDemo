@@ -21,7 +21,7 @@ iOS SDK provides a really handy little system to quickly preview documents, Quic
         let path = Bundle.main.path(forResource: "article", ofType: "pdf")
         let pathUrl = URL.init(fileURLWithPath: path!)
 
-// item to show
+        // item to show
         let item : QLSPreviewItem = QLSPreviewItem(url: pathUrl, tittle: "Raqndoim Text")
         
         let datasourse : QLSDataSource = QLSDataSource(previewItem: item)
